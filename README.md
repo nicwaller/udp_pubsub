@@ -2,6 +2,8 @@
 
 A publish/subscribe message bus using UDP broadcast packets.
 
+<img width="831" alt="image" src="https://github.com/nicwaller/udp_pubsub/assets/2850248/2ae818ae-cb68-40b1-b2ec-d2854d3e7bb2">
+
 ## Why
 
 The [publish-subscribe channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html) is a useful design pattern, and there are great tools like [Redis Pub/Sub](https://redis.io/docs/interact/pubsub/) to support it, but sometimes I just want something **very** lightweight.
