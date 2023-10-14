@@ -1,0 +1,6 @@
+# JetBrains IDEA IntelliJ
+.idea/*
+
+# build artifacts
+publisher/publisher
+subscriber/subscriber
